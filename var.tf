@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "ansible-kp"
+    default = "ansible"
 }
 
 # variable "vpc_id" {
